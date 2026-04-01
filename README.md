@@ -17,7 +17,8 @@ Files
 - `video/` : Project demo 
 
 How to Run
-1. Open the Vivado project.
-2. Synthesize and implement the design.
-3. Program the FPGA.
-4. Adjust duty cycles using VIO and observe LED behavior.
+1. Open the Vivado project and upload the design sources.
+2. Then upload the .xci and constraint file.
+3. Synthesize and implement the design.
+4. Program the FPGA.
+5. Adjust duty cycles using VIO and observe LED behavior.
